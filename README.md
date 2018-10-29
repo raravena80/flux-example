@@ -7,4 +7,4 @@ If you have any questions about, feedback for or problems with `flux-example`:
 - Send an email to <a href="mailto:weave-users@weave.works">weave-users@weave.works</a>
 - <a href="https://github.com/weaveworks/flux-example/issues/new">File an issue.</a>
 
-Your feedback is always welcome!
+Your feedback is always welcome! Feedback addition
