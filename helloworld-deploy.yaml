@@ -23,3 +23,5 @@ spec:
         - -addr=:8080
         ports:
         - containerPort: 8080
+        
+        
